@@ -3,9 +3,9 @@
 This is a community-driven blacklist for Deeper Network Devices. 
 If you have additional pages to be added to the list, please create an Issue and we will add them to the list.
 
-Last update: 2022-02-13
+Last update: 2022-02-14
 
-Total pages blocked: 268
+Total pages blocked: 296
 
 ## How to use?
 
