@@ -10,7 +10,8 @@ Total pages blocked: 21071
 ## How to say THANKS?
 
 No big deal, we like what we are doing and you using the list is already showing your appreciation!
-If you want to buy us a coffee, feel free to drop us a few DPR (or any other Crypto) on 0xaE5B93be365ca2C859DA67ED23658ad29E0bBD37 
+If you want to buy us a coffee, feel free to drop us a few DPR (or any other Crypto) on 
+0xaE5B93be365ca2C859DA67ED23658ad29E0bBD37 
 
 ## How to use?
 
