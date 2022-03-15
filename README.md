@@ -5,7 +5,7 @@ If you have additional pages to be added to the list, please create an Issue and
 
 Last update: 2022-02-20
 
-Total pages blocked: <b>21071</b>
+Total pages blocked: <b>21042</b>
 
 ## How to say THANKS?
 
