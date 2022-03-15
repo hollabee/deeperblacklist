@@ -3,7 +3,7 @@
 This is a community-driven blacklist for Deeper Network Devices. 
 If you have additional pages to be added to the list, please create an Issue and we will add them to the list.
 
-Last update: 2022-02-20
+Last update: 2022-03-15
 
 Total pages blocked: <b>21042</b>
 
