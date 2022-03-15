@@ -7,6 +7,8 @@ Last update: 2022-03-15
 
 Total pages blocked: <b>21042</b>
 
+Please note: Currently, there is a limitation of maximum 1000 URLs in the blocklist. We are in touch with the Deeper developers.
+
 ## How to say THANKS?
 
 No big deal, we like what we are doing and you using the list is already showing your appreciation!
